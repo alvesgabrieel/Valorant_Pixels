@@ -40,3 +40,12 @@ header .nav .nav-item .nav-link {
     margin-bottom: 30px;
 }
 
+@media screen and (max-width: 767px) {
+    .centralizar-media-query {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}
+
