@@ -1,0 +1,42 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #15202b;
+    color: #fff;
+}
+
+#logo {
+    font-family: 'Teko', sans-serif;
+    color: #ff4655;
+}
+
+.navbar-brand {
+    width: 6em;
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 0;
+}
+
+header .nav .nav-item .nav-link {
+    color: #fff;
+}
+
+.navbar-toggler{
+    background-color: #ff4655;
+}
+
+.nav-link {
+    text-align: center;
+}
+
+.texto-preto {
+    color: #000;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
